@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/clear.png</file>
+        <file>icons/close.png</file>
+        <file>icons/divide.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/times.png</file>
+    </qresource>
+</RCC>
